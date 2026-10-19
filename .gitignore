@@ -1,0 +1,7 @@
+# Differential-test run artifacts
+*.tsv
+*.inputs.jsonl
+
+# Python
+__pycache__/
+*.pyc
